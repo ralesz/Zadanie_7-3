@@ -24,6 +24,12 @@ body {
   text-align: center;
   font-family: arial; }
 .song p {
-  color: blue; }
+  font-size: 1.3em;
+  color: blue;
+  text-align: center; }
+
+[class*="col-"] {
+  width: 100%;
+  padding: 12px; }
 
 /*# sourceMappingURL=style.css.map */
