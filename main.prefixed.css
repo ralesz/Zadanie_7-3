@@ -18,6 +18,7 @@ Backtrace:
 /usr/local/bin/sass:23:in `<main>'
 */
 body:before {
+	display: -ms-flexbox;
 	display: flex;
   white-space: pre;
   font-family: monospace;
